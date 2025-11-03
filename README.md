@@ -4,12 +4,11 @@ Welcome to the Snapdragon 8 Gen 1 Windows BSP Platform repository.
 
 This repository contains drivers, components and files needed to run Windows on official Snapdragon 8 Gen 1 platforms such as:
 
-- Qualcomm Reference Device (QRD)
+- Modem Testing Platform (MTP)
 
 We currently support the following chipsets:
 
 - Snapdragon 8 Gen 1
-- N/A
 
 In the following variants:
 
